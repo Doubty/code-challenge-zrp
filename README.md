@@ -13,7 +13,7 @@ Projeto foi desenvolvido como desafio frontend para concorrer a vagar na ZRP
 - Flexbox
 - Entre outras
 
-O projeto pode ser visualizado no vercel, [clicando aqui](https://)
+O projeto pode ser visualizado no vercel, [clicando aqui](https://code-challenge-zrp.vercel.app/)
 
 ## Instalação de dependências e inicialização do projeto localmente
 
